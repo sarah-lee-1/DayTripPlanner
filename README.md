@@ -1,0 +1,2 @@
+# DayTripPlanner
+Daytripgenerator
